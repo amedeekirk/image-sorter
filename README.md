@@ -7,8 +7,11 @@ This was a project originally to test the above scraper, but quickly evolved to 
 
 ## Stats
 Initial image count: Roughly 23,000
+
 Total Users: 446
+
 Total Votes: 100,000
+
 Average Votes per Session: 20.02
 
 
